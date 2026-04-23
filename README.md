@@ -1,4 +1,4 @@
-# 👋 Salut ! Moi c'est [Ton Prénom/Pseudo] (alias LaTortu3)
+# 👋 Salut ! Moi c'est Nicolas (alias LaTortu3)
 
 <p align="center">
   <img src="https://vignette.wikia.nocookie.net/pokemon/images/1/1a/007Squirtle_XY_Anime.png/revision/latest?cb=20140916184433" width="150" alt="Logo Tortue">
@@ -16,7 +16,7 @@
 ### 🐢 À propos de moi
 Passionné par le développement et l'automatisation, j'aime construire des solutions robustes sans brûler les étapes. Mon approche ? **"Rien ne sert de courir ; il faut partir à point."**
 
-- 🔭 **Projet actuel :** Développement de [Nom de ton projet principal]
+- 🔭 **Projet actuel :** Développement de jeux Unreal Engine x LUA
 - 🌱 **Apprentissage :** Perfectionnement en architecture logicielle et IA
 - 👯 **Collaboration :** Ouvert aux projets Open Source et aux outils d'automatisation
 - 💬 **Ask me about :** Python, l'optimisation de workflow, ou pourquoi la tortue finit toujours par gagner !
@@ -43,9 +43,9 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 ---
 
 ### 📬 Me contacter
-* **LinkedIn:** [Ton Profil](https://linkedin.com/in/ton-nom)
-* **Portfolio:** [Lien vers ton site](https://ton-site.com)
-* **Discord:** `ton_user_discord`
+* **LinkedIn:** https://linkedin.com/in/ton-nom
+* **Portfolio:** https://ton-site.com
+* **Discord:** `LaTortu3`
 
 ---
 <p align="center">

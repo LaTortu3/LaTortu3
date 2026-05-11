@@ -13,6 +13,23 @@
 
 ---
 
+### 📂 Mon Empire GitHub
+<!-- DYNAMIC_REPOS_START -->
+#### [LaTortu3](https://github.com/LaTortu3/LaTortu3) - 🌍 Public - ⭐ 1
+> Ma Page de Profil !
+
+**Tech Stack / Languages:** Not specified
+
+**Recent Commits:**
+- [`dec9841`](https://github.com/LaTortu3/LaTortu3/commit/dec9841671ec65c7c654c6aba2c2e3e5ba83379f) 2026-04-23 - Update personal information in README.md
+- [`73613c9`](https://github.com/LaTortu3/LaTortu3/commit/73613c9c8f697ff51ae79393690cef788f07f649) 2026-04-23 - Revise README with personal and project details
+- [`2cea421`](https://github.com/LaTortu3/LaTortu3/commit/2cea4212b264cd9f4d76f2320d93ab10a6636ff9) 2026-04-23 - Create README.md with introductory content
+
+
+<!-- DYNAMIC_REPOS_END -->
+
+---
+
 ### 🐢 À propos de moi
 Passionné par le développement et l'automatisation, j'aime construire des solutions robustes sans brûler les étapes. Mon approche ? **"Rien ne sert de courir ; il faut partir à point."**
 

@@ -48,6 +48,18 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 * **Discord:** `LaTortu3`
 
 ---
+
+### 🌟 Mes Projets (Repos)
+<!-- DYNAMIC_REPOS_START -->
+#### [LaTortu3](https://github.com/LaTortu3/LaTortu3) 🌐 Public
+> Ma Page de Profil !
+
+- ⭐ **Stars:** 1
+- 🛠 **Tech/Skills:** Not specified
+- 📝 **Latest Commit:** `Update personal information in README.md`
+<!-- DYNAMIC_REPOS_END -->
+
+---
 <p align="center">
   <i>Dernière mise à jour : Avril 2026 🚀</i>
 </p>

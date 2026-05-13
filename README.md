@@ -42,6 +42,12 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ---
 
+### 📦 Mes Projets (Mise à jour automatique)
+<!-- DYNAMIC_REPOS_START -->
+<!-- DYNAMIC_REPOS_END -->
+
+---
+
 ### 📬 Me contacter
 * **LinkedIn:** https://linkedin.com/in/ton-nom
 * **Portfolio:** https://ton-site.com

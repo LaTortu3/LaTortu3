@@ -13,6 +13,14 @@
 
 ---
 
+### 🚀 Mes Projets & Contributions
+
+<!-- DYNAMIC_REPOS_START -->
+
+<!-- DYNAMIC_REPOS_END -->
+
+---
+
 ### 🐢 À propos de moi
 Passionné par le développement et l'automatisation, j'aime construire des solutions robustes sans brûler les étapes. Mon approche ? **"Rien ne sert de courir ; il faut partir à point."**
 

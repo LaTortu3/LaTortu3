@@ -25,6 +25,11 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ### 🛠 Mon Stack Technologique
 
+**Compétences & Capacités d'Intégration**
+* **Langages & Code :** Expert en Python pour l'automatisation, la manipulation de données et l'interaction via API (comme l'API GraphQL GitHub). Solides compétences en JavaScript pour le web. Expérience en Lua et C++ pour le développement de jeux via Unreal Engine, permettant une intégration poussée de logiques complexes.
+* **Automatisation & CI/CD :** Maîtrise des Github Actions pour la mise en place de workflows automatisés, incluant l'exécution de scripts quotidiens, le requêtage d'API, et les commits automatiques sans intervention humaine.
+* **Intégrations :** Capacité à orchestrer de multiples outils (Docker, API REST et GraphQL) pour créer des systèmes dynamiques et évolutifs. Conception d'architectures capables de s'auto-documenter et de se mettre à jour continuellement.
+
 | Catégorie | Outils & Langages |
 | :--- | :--- |
 | **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
@@ -46,6 +51,15 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 * **LinkedIn:** https://linkedin.com/in/ton-nom
 * **Portfolio:** https://ton-site.com
 * **Discord:** `LaTortu3`
+
+---
+### 🌟 Mes Projets & Avancements (Mise à jour automatique)
+
+<!-- DYNAMIC_REPOS_START -->
+
+<p><em>Aucune donnée dynamique à afficher (token manquant ou aucune repo).</em></p>
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 <p align="center">

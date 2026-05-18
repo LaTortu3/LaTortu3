@@ -23,13 +23,21 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ---
 
-### 🛠 Mon Stack Technologique
+### 🛠 Mon Stack Technologique et Compétences
 
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+* **Python** ![Python](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white) : Mon langage de prédilection pour l'automatisation, le scripting, et l'intégration d'APIs complexes (comme GraphQL pour la gestion dynamique de données GitHub). J'aime l'utiliser pour construire des outils robustes et optimiser les workflows.
+* **JavaScript** ![JS](https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black) / **Web (HTML5/CSS3)** ![HTML5](https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white) : Utilisé pour la création d'interfaces et le développement frontend, me permettant de concevoir des expériences utilisateurs interactives.
+* **Lua & C++ (Unreal Engine)** : Mes outils de choix pour le développement de jeux vidéo et la conception de logiques en temps réel, alliant les performances du C++ avec la flexibilité du scripting Lua.
+* **DevOps & CI/CD (GitHub Actions, Docker)** ![Git](https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white) : Passionné par l'automatisation, je maîtrise la création de pipelines CI/CD complexes avec GitHub Actions pour automatiser les tests, les builds et les déploiements, ainsi que Docker pour des environnements reproductibles.
+
+---
+
+### 🌟 Mon Empire GitHub (Projets & Repositories)
+
+Voici un aperçu dynamique de tous mes dépôts (publics et privés), généré automatiquement par GitHub Actions !
+
+<!-- DYNAMIC_REPOS_START -->
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

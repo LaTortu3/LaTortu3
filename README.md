@@ -13,6 +13,13 @@
 
 ---
 
+<!-- DYNAMIC_REPOS_START -->
+*(Aucune donnée de repository disponible pour le moment)*
+
+<!-- DYNAMIC_REPOS_END -->
+
+---
+
 ### 🐢 À propos de moi
 Passionné par le développement et l'automatisation, j'aime construire des solutions robustes sans brûler les étapes. Mon approche ? **"Rien ne sert de courir ; il faut partir à point."**
 
@@ -23,13 +30,17 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ---
 
-### 🛠 Mon Stack Technologique
+### 🛠 Mon Stack Technologique & Intégrations
 
-| Catégorie | Outils & Langages |
+J'utilise un éventail de technologies pour couvrir différents domaines, de la création de jeux interactifs à l'automatisation complète de mes processus. Voici un aperçu de mes compétences principales :
+
+| Technologie / Outil | Détails et Cas d'usage |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Python** ![Python](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white) | **Automatisation & APIs :** Utilisé massivement pour écrire des scripts d'automatisation (comme la mise à jour dynamique de ce README via l'API GraphQL de GitHub). Je gère des pipelines CI/CD complexes et l'intégration de données avec ce langage. |
+| **LUA & C++** ![C++](https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/-2C2D72?style=flat&logo=lua&logoColor=white) | **Développement de Jeux (Unreal Engine) :** Scripts gameplay, création de systèmes de jeu avancés et intégration de mécaniques interactives au sein d'Unreal Engine. L'alliance du C++ pour la performance et de Lua pour la flexibilité du modding/scripting. |
+| **JavaScript / Web** ![JS](https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white) | **Développement Frontend :** Conception et développement d'interfaces web interactives et modernes, interfaçage avec diverses APIs back-end. |
+| **GitHub Actions** ![GitHub Actions](https://img.shields.io/badge/-2088FF?style=flat&logo=github-actions&logoColor=white) | **CI/CD & DevOps :** Automatisation du déploiement, tests continus et mise à jour dynamique de profils (ex: scripts CRON pour réactualiser mes statistiques et mon historique de commits chaque nuit). |
+| **Git, Docker, VSCode** | **Outils de travail :** Gestion de versions, conteneurisation de projets pour des environnements isolés et reproductibles, et éditeur de code optimisé pour le développement full-stack. |
 
 ---
 

@@ -16,7 +16,7 @@
 ### 🐢 À propos de moi
 Passionné par le développement et l'automatisation, j'aime construire des solutions robustes sans brûler les étapes. Mon approche ? **"Rien ne sert de courir ; il faut partir à point."**
 
-- 🔭 **Projet actuel :** Développement de jeux Unreal Engine x LUA
+- 🔭 **Projet actuel :** Développement de jeux Unreal Engine x LUA, Site React
 - 🌱 **Apprentissage :** Perfectionnement en architecture logicielle et IA
 - 👯 **Collaboration :** Ouvert aux projets Open Source et aux outils d'automatisation
 - 💬 **Ask me about :** Python, l'optimisation de workflow, ou pourquoi la tortue finit toujours par gagner !

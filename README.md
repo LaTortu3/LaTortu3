@@ -25,11 +25,16 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ### 🛠 Mon Stack Technologique
 
+* **Python:** Automation, GraphQL APIs, data extraction and processing.
+* **JavaScript:** Web development, frontend interactivity (React).
+* **Lua & C++:** Game development, specifically with Unreal Engine integrations.
+* **GitHub Actions:** CI/CD pipelines, automated testing, and dynamic profile generation.
+
 | Catégorie | Outils & Langages |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white) |
 
 ---
 
@@ -39,6 +44,26 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaTortu3&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
+
+---
+
+### 📂 Mes Repositories
+
+<!-- DYNAMIC_REPOS_START -->
+#### 📦 mock-repo-1
+- **Language:** Python | **Stars:** ⭐ 42 | **Status:** 🌍 Public
+- **Last Commits:**
+  - `2024-01-01`: Initial commit
+  - `2024-01-02`: Add features
+<br>
+
+#### 📦 secret-project
+- **Language:** C++ | **Stars:** ⭐ 10 | **Status:** 🔒 Private
+- **Last Commits:**
+  - `2024-02-01`: Fix bugs
+<br>
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

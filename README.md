@@ -16,10 +16,10 @@
 ### 🐢 À propos de moi
 Passionné par le développement et l'automatisation, j'aime construire des solutions robustes sans brûler les étapes. Mon approche ? **"Rien ne sert de courir ; il faut partir à point."**
 
-- 🔭 **Projet actuel :** Développement de jeux Unreal Engine x LUA, Site React
-- 🌱 **Apprentissage :** Perfectionnement en architecture logicielle et IA
-- 👯 **Collaboration :** Ouvert aux projets Open Source et aux outils d'automatisation
-- 💬 **Ask me about :** Python, l'optimisation de workflow, ou pourquoi la tortue finit toujours par gagner !
+- 🔭 **Projets actuels :** Développement de jeux Unreal Engine x LUA, Sites Web React, et outils d'automatisation Python
+- 🌱 **Apprentissage :** Perfectionnement en architecture logicielle, intégration continue (CI/CD) et IA
+- 👯 **Collaboration :** Ouvert aux projets Open Source et à l'exploration de nouvelles APIs
+- 💬 **Ask me about :** Python, l'optimisation de workflow, GraphQL, C++, Lua, ou pourquoi la tortue finit toujours par gagner !
 
 ---
 
@@ -27,9 +27,39 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 | Catégorie | Outils & Langages |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Langages Backend / Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) - *(Automatisation, Scripts, APIs GraphQL)* <br> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) - *(Scripting de jeux)* <br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) - *(Unreal Engine, Performance)* |
+| **Frontend & Web** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) - *(Développement Web, React)* <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Outils & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) - *(CI/CD, Automatisation)* <br> ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white) - *(Développement 3D)* |
+
+---
+
+<!-- DYNAMIC_REPOS_START -->
+### 📂 Mes Dépôts Récents & Avancées
+
+#### [mock-repo-1](https://github.com/LaTortu3/mock-repo-1) 🌐 `Public`
+> A mock repository for local testing.
+
+⭐ 42 | 🟢 **Python**
+
+**Derniers Commits :**
+- `a1b2c3d` (27 Oct 2023) : Update README
+- `e4f5g6h` (26 Oct 2023) : Fix bug
+- `i7j8k9l` (25 Oct 2023) : Initial commit
+
+---
+
+#### [secret-project](https://github.com/LaTortu3/secret-project) 🔒 `Privé`
+> Top secret stuff.
+
+🟢 **C++**
+
+**Derniers Commits :**
+- `z1x2c3v` (27 Oct 2023) : Optimize render loop
+
+---
+
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

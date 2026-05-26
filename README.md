@@ -31,6 +31,12 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
+#### Mes Capacités & Intégrations
+* **Python**: Automatisation de processus, appels API GraphQL, manipulation de données.
+* **JavaScript / Web**: Développement Frontend, applications interactives et modernes avec React.
+* **Lua & C++**: Scripts et intégration dans l'Unreal Engine pour le développement de jeux vidéo performants.
+* **GitHub Actions**: Workflows CI/CD, automatisation du cycle de vie du code et déploiement continu.
+
 ---
 
 ### 📈 Mes Statistiques GitHub
@@ -39,6 +45,33 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaTortu3&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
+
+---
+
+### 📦 Mes Repositories
+
+<!-- DYNAMIC_REPOS_START -->
+
+#### 📁 [Awesome-Unreal-Lua](https://github.com/LaTortu3/Awesome-Unreal-Lua) 🌟 42 | 🛠 Lua
+📝 **Derniers Commits :**
+- `2023-10-25` : Add new enemy logic
+- `2023-10-24` : Fix UI bug
+- `2023-10-23` : Initial commit
+
+#### 📁 [React-Portfolio](https://github.com/LaTortu3/React-Portfolio) 🌟 15 | 🛠 JavaScript
+📝 **Derniers Commits :**
+- `2023-10-26` : Update about section
+- `2023-10-20` : Add dynamic routing
+- `2023-10-18` : Fix mobile layout
+
+#### 📁 [Python-Automation-Scripts](https://github.com/LaTortu3/Python-Automation-Scripts) 🌟 8 | 🛠 Python
+📝 **Derniers Commits :**
+- `2023-10-27` : Refactor API client
+- `2023-10-22` : Add retry logic
+- `2023-10-15` : Setup project
+
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

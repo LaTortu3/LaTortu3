@@ -25,11 +25,23 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ### 🛠 Mon Stack Technologique
 
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| Catégorie | Outils & Langages | Détails & Utilisations |
+| :--- | :--- | :--- |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <br> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) | **Python:** Automatisation, Scripts, Intégration API GraphQL<br>**JS:** Développement Web (React)<br>**C++ & Lua:** Développement de jeux via Unreal Engine |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | Création d'interfaces utilisateur modernes et réactives. Utilisation de React pour des composants dynamiques. |
+| **Outils & CI/CD** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | **GitHub Actions:** CI/CD, automatisation de workflows de mise à jour dynamiques.<br>**Docker:** Conteneurisation pour environnements de test cohérents. |
+
+---
+
+### 🚀 Mes Dépôts Récents
+<!-- DYNAMIC_REPOS_START -->
+#### 🔹 [unreal-project-alpha](https://github.com/LaTortu3/unreal-project-alpha) - `Public` | ⭐️ 42 | 🛠️ C++
+<ul><li>Implemented new combat mechanics</li><li>Fixed memory leak in level 3</li><li>Updated UE version to 5.3</li></ul>
+#### 🔹 [lua-scripts](https://github.com/LaTortu3/lua-scripts) - `Private` | ⭐️ 5 | 🛠️ Lua
+<ul><li>Add AI behavior script</li><li>Refactor event system</li></ul>
+#### 🔹 [github-profile-readme](https://github.com/LaTortu3/github-profile-readme) - `Public` | ⭐️ 10 | 🛠️ Python
+<ul><li>Update README.md with dynamic data</li></ul>
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

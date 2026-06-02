@@ -1,0 +1,37 @@
+name: Update README with Repositories
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC every day
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write # Needed to commit and push changes
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Assuming you set this in repo secrets
+        run: python update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Check if there are changes before committing
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: Auto-update README with latest repos [skip ci]" && git push)

@@ -16,29 +16,50 @@
 ### 🐢 À propos de moi
 Passionné par le développement et l'automatisation, j'aime construire des solutions robustes sans brûler les étapes. Mon approche ? **"Rien ne sert de courir ; il faut partir à point."**
 
-- 🔭 **Projet actuel :** Développement de jeux Unreal Engine x LUA, Site React
-- 🌱 **Apprentissage :** Perfectionnement en architecture logicielle et IA
+- 🔭 **Projet actuel :** Développement de jeux Unreal Engine x LUA, Site Web (JavaScript)
+- 🌱 **Apprentissage :** Perfectionnement en architecture logicielle, automatisation, CI/CD et IA
 - 👯 **Collaboration :** Ouvert aux projets Open Source et aux outils d'automatisation
-- 💬 **Ask me about :** Python, l'optimisation de workflow, ou pourquoi la tortue finit toujours par gagner !
+- 💬 **Ask me about :** Python, JavaScript, C++, Lua, GitHub Actions, ou pourquoi la tortue finit toujours par gagner !
 
 ---
 
-### 🛠 Mon Stack Technologique
+### 🛠 Mon Stack Technologique et Compétences
 
-| Catégorie | Outils & Langages |
+| Catégorie | Outils, Langages & Compétences |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Automatisation & Backend** | **Python** : Fortement utilisé pour scripter des tâches d'automatisation, manipuler des APIs (comme GitHub GraphQL) et développer des solutions backend robustes.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Développement Web** | **JavaScript** : Mon outil de choix pour créer des expériences frontend interactives et construire des sites web performants.<br>![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Game Development** | **Lua & C++** : Utilisés intensivement pour scripter des comportements de jeu, des mécaniques et des optimisations de bas niveau au sein de **Unreal Engine**.<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) |
+| **CI/CD & Outillage** | **GitHub Actions** : Construction de workflows (CI/CD) automatisés (comme la mise à jour dynamique de ce README).<br>![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
 ---
 
-### 📈 Mes Statistiques GitHub
+### 📈 Mes Statistiques GitHub & Projets
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LaTortu3&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de LaTortu3" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaTortu3&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
+
+---
+
+### 🔍 Mes Dépôts Récents
+<!-- DYNAMIC_REPOS_START -->
+
+### 📁 [MockRepo-1](https://github.com/LaTortu3/MockRepo-1) (Public)
+⭐ **Stars:** 5 | 📝 **Language:** Python
+
+**Latest Commits:**
+- `a1b2c3d` - Initial commit
+- `f6g7h8i` - Update README.md
+
+### 📁 [MockRepo-Private](https://github.com/LaTortu3/MockRepo-Private) (Private)
+⭐ **Stars:** 0 | 📝 **Language:** C++
+
+*No recent commits found.*
+
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

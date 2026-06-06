@@ -31,6 +31,28 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
+### 🚀 Mes Compétences et Intégrations Détaillées
+- **Python** : Automatisation de tâches, requêtes API complexes (GraphQL, REST), manipulation de données et scripts backend robustes. J'utilise Python pour orchestrer des workflows complexes et extraire des données dynamiques comme celles de mon profil GitHub.
+- **JavaScript (Web)** : Développement d'interfaces interactives avec React. Mes connaissances me permettent de créer des expériences utilisateurs fluides et réactives, que ce soit pour des outils internes ou des applications publiques.
+- **Lua & C++ (Unreal Engine)** : Scripting pour la logique de jeu, création d'outils in-engine et optimisation de performance. J'utilise ces langages pour apporter de la profondeur à mes projets sur Unreal Engine.
+- **GitHub Actions (CI/CD)** : Création de pipelines d'intégration continue automatisés. De la validation du code aux déploiements automatiques, je gère le cycle de vie de développement pour un workflow fluide.
+- **Intégration d'APIs** : Fortes capacités en connexion d'APIs tierces et extraction de données.
+
+---
+
+### 🚀 Mes Projets (Mise à jour dynamique)
+Ici sont listés tous mes dépôts (publics et privés), mis à jour automatiquement avec mes derniers commits et les statistiques associées !
+
+<!-- DYNAMIC_REPOS_START -->
+- **[repo-mock-1](https://github.com/LaTortu3/repo-mock-1)** (Public) - ⭐️ 5 | Python
+  - *feat: mock feature 1*
+  - *fix: mock bug 1*
+  - *docs: mock docs 1*
+- **[repo-mock-2](https://github.com/LaTortu3/repo-mock-2)** (Private) - ⭐️ 2 | JavaScript
+  - *feat: mock feature 2*
+  - *refactor: mock refactor*
+<!-- DYNAMIC_REPOS_END -->
+
 ---
 
 ### 📈 Mes Statistiques GitHub

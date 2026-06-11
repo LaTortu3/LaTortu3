@@ -23,13 +23,33 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ---
 
-### 🛠 Mon Stack Technologique
+### 🛠 Mon Stack Technologique & Compétences
 
-| Catégorie | Outils & Langages |
+| Technologie | Description & Cas d'usage |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Python** ![Python](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white) | Automatisation avancée, requêtes API GraphQL (comme pour ce README), scripting de workflows. |
+| **JavaScript** ![JS](https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black) | Développement web interactif, intégrations frontend dynamiques (React). |
+| **Unreal Engine / C++ / Lua** | Conception et développement de jeux vidéo, scripting logique avec Lua, et systèmes performants en C++. |
+| **GitHub Actions** | Mise en place de pipelines CI/CD robustes, automatisation des mises à jour de profil et des tests. |
+| **Docker** ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white) | Conteneurisation d'applications pour assurer la portabilité et faciliter le déploiement. |
+
+---
+
+### 📂 Mes Dépôts Récents
+
+<!-- DYNAMIC_REPOS_START -->
+#### 📁 [mock-repo-1](https://github.com/LaTortu3/mock-repo-1) - `Public` | ⭐ 10 | 🔵 Python
+<ul>
+  <li><em>2024-01-01</em> : Initial commit</li>
+  <li><em>2024-01-02</em> : Update README</li>
+</ul>
+
+#### 📁 [private-mock-repo](https://github.com/LaTortu3/private-mock-repo) - `Private` | ⭐ 5 | 🔵 JavaScript
+<ul>
+  <li><em>2024-01-03</em> : Fix login bug</li>
+</ul>
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

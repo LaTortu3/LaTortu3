@@ -23,13 +23,14 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ---
 
-### 🛠 Mon Stack Technologique
+### 🛠 Mon Stack Technologique & Compétences Détaillées
 
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| Catégorie | Outils & Langages | Détails & Capacités d'Intégration |
+| :--- | :--- | :--- |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Automatisation de scripts, création d'outils internes, requêtes via API GraphQL (comme l'API GitHub), traitement de données, web scraping (requests, BeautifulSoup). |
+| **JavaScript / Web** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Développement de sites web interactifs et responsives, utilisation de frameworks frontend comme React pour la création d'interfaces utilisateurs dynamiques et modulables. Intégration via des API REST. |
+| **Unreal Engine** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | Développement de jeux et simulations 3D. Utilisation de C++ pour des logiques système bas niveau et performances optimisées. Utilisation de Lua pour du scripting gameplay rapide et flexible. Intégration d'assets et gestion des Blueprints. |
+| **DevOps & CI/CD**| ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Mise en place de pipelines CI/CD via GitHub Actions pour automatiser les tests, la compilation et les déploiements (comme la mise à jour automatique de ce README via cron). Utilisation de Docker pour l'isolation et la portabilité des environnements de développement. |
 
 ---
 
@@ -39,6 +40,24 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaTortu3&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
+
+---
+
+### 🗂️ Mes Projets & Dépôts (Mise à jour Automatique)
+<!-- DYNAMIC_REPOS_START -->
+#### [MockRepo-Public](https://github.com/LaTortu3/MockRepo-Public)
+- **Visibility:** 🌍 Public | **Stars:** 42 ⭐ | **Language:** Python
+- **Last 3 Commits:**
+  - `2023-10-27`: Initial commit
+  - `2023-10-28`: Update README
+  - `2023-10-29`: Fix a bug
+
+#### [MockRepo-Private](https://github.com/LaTortu3/MockRepo-Private)
+- **Visibility:** 🔒 Private | **Stars:** 5 ⭐ | **Language:** JavaScript
+- **Last 3 Commits:**
+  - `2023-10-30`: Secret commit
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

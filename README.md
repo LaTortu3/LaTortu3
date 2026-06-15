@@ -25,11 +25,35 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ### 🛠 Mon Stack Technologique
 
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| Catégorie | Outils & Langages | Détails & Utilisations |
+| :--- | :--- | :--- |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <br> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) | **Python**: Automatisation, requêtes API GraphQL (`requests`).<br>**JavaScript**: Développement Web frontend.<br>**C++ & Lua**: Développement de jeux sur Unreal Engine. |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Intégration et structuration Web standard. |
+| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | **GitHub Actions**: Workflows CI/CD automatisés (ex: MAJ dynamique du README).<br>**Docker, Git, VSCode**: Environnement de développement et gestion de version. |
+
+---
+
+### 🚀 Mes Dépôts (Mise à jour dynamique)
+<!-- DYNAMIC_REPOS_START -->
+#### 📦 [Mock-Repo-1](https://github.com/mock/mock-repo-1)
+**🌍 Public** | **⭐ 42** | 🔤 **Python**
+
+📝 **Derniers commits :**
+- `2024-05-15` : Update README
+- `2024-05-14` : Fix typo
+- `2024-05-13` : Initial commit
+
+---
+
+#### 📦 [Secret-Project-X](https://github.com/mock/secret-project)
+**🔒 Privé** | **⭐ 0** | 🔤 **C++**
+
+📝 **Derniers commits :**
+- `2024-05-10` : Implement feature Y
+
+---
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

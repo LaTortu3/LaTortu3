@@ -23,13 +23,40 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ---
 
-### 🛠 Mon Stack Technologique
+### 🛠 Mon Stack Technologique & Capacités d'Intégration
 
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+Je travaille avec une variété de technologies pour couvrir tous les aspects du développement de bout en bout :
+
+*   **🐍 Python :** Expertise en automatisation, développement d'APIs GraphQL/REST, et manipulation de données complexes.
+*   **💻 JavaScript & ⚛️ React :** Création d'interfaces web dynamiques, réactives et intégration avec divers back-ends.
+*   **🎮 C++ & 🌙 Lua :** Développement de logiques de jeu avancées et scripts de gameplay dans Unreal Engine.
+*   **🚀 GitHub Actions :** Mise en place d'outils de CI/CD complets, de workflows automatisés et de bots de gestion de repo.
+*   **🌐 Frontend Web :** Maîtrise de HTML5 et CSS3 pour des designs élégants et modernes.
+*   **🔧 Outils & Environnement :** Utilisation avancée de Git, Docker et VSCode pour un développement rationalisé et portable.
+
+---
+
+### 📊 Mes Dépôts Récents & Contributions
+
+<!-- DYNAMIC_REPOS_START -->
+#### [mock-repo-1](https://github.com/LaTortu3/mock-repo-1)
+**Visibilité:** 🌐 Public | **Stars:** ⭐ 42 | **Langage:** Python
+
+**Derniers Commits:**
+- Initial commit
+- Update README
+
+---
+
+#### [secret-project](https://github.com/LaTortu3/secret-project)
+**Visibilité:** 🔒 Privé | **Stars:** ⭐ 5 | **Langage:** C++
+
+**Derniers Commits:**
+- Add physics engine
+
+---
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

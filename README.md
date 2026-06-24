@@ -25,11 +25,18 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ### 🛠 Mon Stack Technologique
 
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| Catégorie | Outils & Langages | Description & Capacités d'intégration |
+| :--- | :--- | :--- |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | **Python** : Scripting d'automatisation, développement d'APIs GraphQL, traitement de données. <br> **JS & React** : Création d'interfaces web dynamiques et interactives. <br> **Lua & C++** : Logique de gameplay dans Unreal Engine, scripts de jeux et moteurs temps réel. |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | Développement d'architectures composants robustes, intégration d'APIs REST/GraphQL pour la Data Visualization. |
+| **Outils & CI/CD** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | Mise en place de pipelines CI/CD (GitHub Actions), conteneurisation des services (Docker), versionnement du code source efficace. |
+
+---
+
+### 📁 Mes Dépôts Récents & Contributions
+
+<!-- DYNAMIC_REPOS_START -->
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

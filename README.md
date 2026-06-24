@@ -23,13 +23,43 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ---
 
-### 🛠 Mon Stack Technologique
+### 🛠 Mon Stack Technologique & Compétences
+
+*   **Python :** Expertise en automatisation, création de scripts d'extraction de données, et intégration d'APIs complexes (comme l'API GraphQL de GitHub). Utilisation courante de bibliothèques comme `requests` ou `re` pour le traitement dynamique et la génération de contenu.
+*   **JavaScript & React :** Développement d'interfaces web dynamiques et réactives. Maîtrise des composants fonctionnels, des hooks (useState, useEffect) et de la gestion de l'état pour une expérience utilisateur fluide.
+*   **Lua & C++ (Unreal Engine) :** Implémentation de logique de gameplay avancée. Utilisation de C++ pour les performances de bas niveau et l'architecture core, couplé à Lua (via des plugins d'intégration) pour le scripting rapide et la flexibilité du design de jeu.
+*   **GitHub Actions (CI/CD) :** Conception de workflows automatisés complets. Configuration de jobs récurrents (cron), intégration de scripts personnalisés pour l'update dynamique de documentation (comme ce profil !), gestion des variables d'environnement et des secrets (`GH_TOKEN`).
 
 | Catégorie | Outils & Langages |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Outils & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 📂 Mes Dépôts Récents & Contributions
+
+<!-- DYNAMIC_REPOS_START -->
+
+#### 📁 [mock-repo-1](https://github.com/LaTortu3/mock-repo-1)
+**Visibilité:** 🟢 Public | **Langage Principal:** `Python` | **Stars:** ⭐ 42
+
+📝 **Derniers Commits :**
+- `01/04/2026` : Initial commit
+- `02/04/2026` : Add feature X
+- `03/04/2026` : Fix bug Y
+
+---
+
+#### 📁 [mock-repo-2](https://github.com/LaTortu3/mock-repo-2)
+**Visibilité:** 🔴 Privé | **Langage Principal:** `JavaScript` | **Stars:** ⭐ 5
+
+📝 **Derniers Commits :**
+- `01/04/2026` : Setup React project
+
+---
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

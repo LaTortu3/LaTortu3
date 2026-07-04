@@ -25,11 +25,27 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ### 🛠 Mon Stack Technologique
 
-| Catégorie | Outils & Langages |
+| Catégorie | Outils, Langages & Capacités d'Intégration |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Langages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** : Automatisation de tâches, requêtes d'APIs GraphQL, création d'outils internes pour le flux de travail. <br> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) **Lua** & ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) **C++** : Programmation de la logique de gameplay, intégration approfondie avec les systèmes internes de l'Unreal Engine. |
+| **Frontend & Web** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript / React** : Développement d'interfaces web dynamiques, consommation d'API REST/GraphQL, architectures composants réutilisables. <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) Intégration responsive et respect des maquettes UI/UX. |
+| **CI/CD & Outils** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) **GitHub Actions** : Pipelines CI/CD automatisés, déclenchements sur CRON, manipulation de secrets et d'API GitHub de manière sécurisée. <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Maîtrise du versioning complexe et des environnements conteneurisés. |
+
+---
+
+### 🗂 Mes Dépôts Récents & Contributions
+<!-- DYNAMIC_REPOS_START -->
+#### [Awesome-Python-Script](https://github.com/LaTortu3/Awesome-Python-Script) | 🌐 Public | ⭐ 42 | 🔵 Python
+- **Derniers commits :**
+  - `2023-10-27 10:00` : Add new feature
+  - `2023-10-26 14:30` : Fix bug
+  - `2023-10-25 09:15` : Initial commit
+
+#### [Secret-Project-X](https://github.com/LaTortu3/Secret-Project-X) | 🔒 Privé | ⭐ 0 | 🔵 C++
+- **Derniers commits :**
+  - `2023-10-20 16:45` : Update engine config
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 

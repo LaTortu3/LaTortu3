@@ -25,11 +25,25 @@ Passionné par le développement et l'automatisation, j'aime construire des solu
 
 ### 🛠 Mon Stack Technologique
 
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| Catégorie | Outils & Langages | Détails & Capacités d'Intégration |
+| :--- | :--- | :--- |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | **Python:** Automatisation (scripts, bots), consommation d'APIs GraphQL/REST, traitement de données. **JavaScript/React:** Création d'interfaces web dynamiques, gestion d'état, appels asynchrones. **Lua & C++:** Logique de gameplay et intégration Unreal Engine. |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | Développement de composants réutilisables, design responsive, intégration d'APIs tierces. |
+| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | **GitHub Actions:** CI/CD pour l'automatisation de workflows, tests et déploiements. **Docker:** Conteneurisation pour environnements isolés et reproductibles. |
+
+---
+
+### 📦 Mes Dépôts Récents & Contributions
+<!-- DYNAMIC_REPOS_START -->
+#### 📁 [mock-repo](https://github.com/mock/mock-repo)
+**Visibility:** PUBLIC | **⭐ Stars:** 42 | **Language:** Python
+
+**Derniers Commits:**
+- `2023-10-27`: Initial commit
+- `2023-10-27`: Update README
+- `2023-10-28`: Add new feature
+
+<!-- DYNAMIC_REPOS_END -->
 
 ---
 
